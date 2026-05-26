@@ -1,0 +1,6 @@
+{
+  "name": "N1 TWINPEN",
+  "description": "قلم N1 TWINPEN الذكي ذو الاستخدام المزدوج - يكتب على الورق والشاشات اللمسية ببراعة وجودة عالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
